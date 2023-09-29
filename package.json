@@ -1,7 +1,7 @@
 {
+  "homepage":"https://vadim-strakhov.github.io/landing_uber",
   "devDependencies": {
-    "gh-pages": "^6.0.0",
-    "homepage":"https://vadim-strakhov.github.io/landing_uber"
+    "gh-pages": "^6.0.0"
   },
   "scripts": {
     "deploy": "gh-pages -d src"
